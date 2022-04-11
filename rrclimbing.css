@@ -1,0 +1,10 @@
+.tabs label {
+    color: #BF1919;
+}
+[id^=tab]:checked + label {
+    background: #BF1919;
+}
+
+.tab-content{
+    background: #BF1919;
+}
