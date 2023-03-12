@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="redrope3-min.css?rnd=123" />
     <link rel="stylesheet" media="(min-width:801px)" href="redrope-lge.css?rnd=123">
     <link rel="stylesheet" type="text/css" href="rrclimbing.css?rnd=123" />
-    <script type="text/javascript" src="./venues.json?rnd=1001"></script>
+    <script type="text/javascript" src="./venues.json?rnd=1002"></script>
     <script>
      function doVenues()
      {
@@ -50,37 +50,45 @@
         <label for="tab1">Evenings</label>
         <div id="tab-content1" class="tab-content animated fadeIn">
           <div id="weeknights" class="menuitemcontainer">
-              <h2><em>Hurray! </em>Evening Climbing is back in 2022</h2>
-              <p>Our evening programme this year is on <em>Thursdays</em> but if the weather isn't good we'll reschedule for earlier in the week</p>
-              <table id="venueTable">
-                  <thead>
-                      <th scope="col">Date</th>
-                      <th scope="col"><a href="#venues">Venue</a></th>
-                      <th scope="col"><a href="#pp">Pickup points</a></th>
-                      <th scope="col">Twilight time</th>
-                      <th scope="col">Pub after</th>  </thead>
-              </table>
+            <h2>Evening Climbing 2023</h2>
+            <p>Our evening programme this year is again on <em>Thursdays</em> but if the weather isn't good we'll reschedule for earlier in the week</p>
             <a name="venues"></a>
             <h3>Venues</h3>
-            <div>*The venue depends on the weather. The climbing organiser will make a decision on the day if the venue needs to be changed.</div>
-            <a name="pp"></a>
+            <div>Weather willing! The climbing organiser will make a decision on the day if the venue needs to be changed.</div>
+
+            <table id="venueTable">
+              <thead>
+                <th scope="col">Date</th>
+                <th scope="col"><a href="#crags">Venue</a></th>
+                <th scope="col"><a href="#pp">Pickup points</a></th>
+                <th scope="col">Twilight time</th>
+                <th scope="col">Pub after</th>  </thead>
+              </table>
+
+           <a name="pp"></a> 
             <h3>Pickup points</h3>
             <table>
               <tr>
                 <th>Code</th>
                 <th>Location</th>
               </tr>
-<tr><td>GB</td><td>The Grain Barge, Mardyke Wharf, Hotwell Rd, BS8 4RU</td></tr><tr><td>SFW</td><td>Sonni's Food & Wines, 46 Mina Road, BS2 9XH</td></tr><tr><td>Geo</td><td>The George, Somerset Road, BS4 2AX</td></tr><tr><td>Aust</td><td>Merge car loads at Passage Road, Aust, BS35 before the Old Severn Crossing</td></tr><tr><td>Crag</td><td>Arrive using your own transport</td></tr>
+              <tr><td>GB*</td><td>The Grain Barge, Mardyke Wharf, Hotwell Rd, BS8 4RU<br/>*This location is within the <a target="_blank" href="https://www.bristol.gov.uk/residents/streets-travel/bristols-caz/view-a-map">Bristol Clean Air Zone</a>. A possible alternative is <em>Zoo</em></td></tr>
+              <tr><td>SFW</td><td>Sonni's Food & Wines, 46 Mina Road, BS2 9XH</td></tr>
+              <tr><td>Zoo</td><td>Former Bristol Zoo, Clifton Down, BS8 3HA</td></tr>
+              <tr><td>Geo</td><td>The George, Somerset Road, BS4 2AX</td></tr>
+              <tr><td>Aust</td><td>Merge car loads at Passage Road, Aust, BS35 before the Old Severn Crossing</td></tr>
+              <tr><td>Crag</td><td>Arrive using your own transport</td></tr>
             </table>
           </div>
         </div>
       </li>
       <li>
         <input type="radio" name="tabs" id="tab2">
-        <label for="tab2">W/E</Label>
+        <label for="tab2">Other</Label>
         <div id="tab-content2" class="tab-content animated fadeIn">
           <div id="weekends" class="menuitemcontainer">
-           <h2>Other Climbing 2022</h2>
+            <a name="other"></a>
+            <h2>Other Climbing</h2>
             <div>
               <div>We're aiming for weekday climbing on Fridays on a low-key basis</div>
               <div>There will also be some weekend trips</div>
@@ -93,6 +101,7 @@
         <input type="radio" name="tabs" id="tab3">
         <label for="tab3">Crags</label>
         <div id="tab-content3" class="tab-content animated fadeIn">
+          <a name="crags"></a>
           <div id="crags" class="menuitemcontainer">
             <h2>Crag info</h2>
 
@@ -268,7 +277,7 @@
       <p><a href="http://www.redrope.org.uk">Red Rope main site</a></p>
       <p><a href="http://www.thebmc.co.uk/bmccrag/ViewCrag.aspx?id=859">Fairy Cave access details</a></p>
       <p><a href="https://www.thebmc.co.uk/modules/RAD/ViewCrag.aspx?id=1063">Avon Gorge Unknown Wall area access details</a></p>
-
+      <p><a target="_blank" href="https://www.bristol.gov.uk/residents/streets-travel/bristols-caz/view-a-map">Bristol Clean Air Zone</a></p>
     </div>
   </div>
 </li>

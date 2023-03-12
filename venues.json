@@ -1,188 +1,188 @@
 venues=`[
   {
-    "Start Date": "Thu 31 Mar",
+    "Start Date": "Thu 30 Mar",
     "Location": "Avon - Unknown Wall",
     "Pickup Point": "Crag",
-    "Twilight Time": "20:15",
+    "Twilight Time": "20:13",
     "Pub": "Nova Scotia"
   },
   {
-    "Start Date": "Thu 07 Apr",
+    "Start Date": "Thu 06 Apr",
     "Location": "Goblin Coombe - Owl Rock",
-    "Pickup Point": "GB",
-    "Twilight Time": "20:28",
+    "Pickup Point": "GB*, Zoo",
+    "Twilight Time": "20:24",
     "Pub": "The Blue Lamp"
   },
   {
-    "Start Date": "Thu 14 Apr",
-    "Location": "Frome - Snuff Mills",
-    "Pickup Point": "SFW",
-    "Twilight Time": "21:32",
-    "Pub": "Mason Arms"
+    "Start Date": "Thu 13 Apr",
+    "Location": "Avon - SBB West",
+    "Pickup Point": "Crag",
+    "Twilight Time": "20:36",
+    "Pub": "Nova Scotia"
   },
   {
-    "Start Date": "Thu 21 Apr",
+    "Start Date": "Thu 20 Apr",
     "Location": "Avon - Clarion/Petros",
     "Pickup Point": "Crag",
-    "Twilight Time": "20:53",
+    "Twilight Time": "20:50",
     "Pub": "Nova Scotia"
   },
   {
-    "Start Date": "Thu 28 Apr",
-    "Location": "Leigh Woods",
+    "Start Date": "Thu 27 Apr",
+    "Location": "Leigh Woods - Q1/2",
     "Pickup Point": "Crag",
-    "Twilight Time": "21:06",
+    "Twilight Time": "21:04",
     "Pub": "Nova Scotia"
   },
   {
-    "Start Date": "Thu 05 May",
+    "Start Date": "Thu 04 May",
     "Location": "Portishead Quarry",
-    "Pickup Point": "GB",
-    "Twilight Time": "21:19",
+    "Pickup Point": "GB*, Zoo",
+    "Twilight Time": "21:17",
     "Pub": "Black Horse, Clapton"
   },
   {
-    "Start Date": "Thu 12 May",
-    "Location": "Avon - SBB West",
+    "Start Date": "Thu 11 May",
+    "Location": "Frome - Snuff Mills",
     "Pickup Point": "SFW",
-    "Twilight Time": "20:41",
-    "Pub": "Nova Scotia"
+    "Twilight Time": "21:30",
+    "Pub": "Mason Arms"
   },
   {
-    "Start Date": "Thu 19 May",
-    "Location": "Frome - Winterbourne Down",
-    "Pickup Point": "SFW",
-    "Twilight Time": "22:17",
-    "Pub": "Crown Inn"
-  },
-  {
-    "Start Date": "Thu 26 May",
-    "Location": "Wye Valley - Shorn Cliff",
-    "Pickup Point": "GB, SFW, Aust",
-    "Twilight Time": "21:56",
-    "Pub": "Rose & Crown"
-  },
-  {
-    "Start Date": "Thu 02 Jun",
-    "Location": "Avon - Ampitheatre/SBB North",
-    "Pickup Point": "Crag",
-    "Twilight Time": "22:06",
-    "Pub": "Nova Scotia"
-  },
-  {
-    "Start Date": "Thu 09 Jun",
-    "Location": "Avon - Main Area",
-    "Pickup Point": "Crag",
-    "Twilight Time": "22:13",
-    "Pub": "Nova Scotia"
-  },
-  {
-    "Start Date": "Thu 16 Jun",
-    "Location": "Fairy Cave",
-    "Pickup Point": "SFW, Geo",
-    "Twilight Time": "22:17",
-    "Pub": "Oakhill Inn"
-  },
-  {
-    "Start Date": "Thu 23 Jun",
-    "Location": "Symonds Yat",
-    "Pickup Point": "GB, SFW, Aust",
-    "Twilight Time": "22:19",
-    "Pub": "Saracen's Head"
-  },
-  {
-    "Start Date": "Thu 30 Jun",
-    "Location": "Taff's Well",
-    "Pickup Point": "GB, SFW, Aust",
-    "Twilight Time": "21:44",
+    "Start Date": "Thu 18 May",
+    "Location": "Taffs Wells",
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "21:42",
     "Pub": "Ty-Nant, CF15 8LB"
   },
   {
-    "Start Date": "Thu 07 Jul",
-    "Location": "Avon - Main Area",
+    "Start Date": "Thu 25 May",
+    "Location": "Wye Valley - Shorncliffe",
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "21:54",
+    "Pub": "Rose & Crown"
+  },
+  {
+    "Start Date": "Thu 01 Jun",
+    "Location": "Avon - Ampitheatre/SBB N.",
     "Pickup Point": "Crag",
-    "Twilight Time": "22:13",
+    "Twilight Time": "22:04",
     "Pub": "Nova Scotia"
   },
   {
-    "Start Date": "Thu 14 Jul",
-    "Location": "Ruspidge- Staple Edge Quarry",
-    "Pickup Point": "GB, SFW, Aust",
-    "Twilight Time": "22:06",
+    "Start Date": "Thu 08 Jun",
+    "Location": "Avon - Main Area",
+    "Pickup Point": "Crag",
+    "Twilight Time": "22:11",
+    "Pub": "Nova Scotia"
+  },
+  {
+    "Start Date": "Thu 15 Jun",
+    "Location": "Goblin Coombe",
+    "Pickup Point": "GB*, Zoo",
+    "Twilight Time": "22:15",
+    "Pub": "The Blue Lamp"
+  },
+  {
+    "Start Date": "Thu 22 Jun",
+    "Location": "Symonds Yat",
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "22:17",
+    "Pub": "Saracen's Head"
+  },
+  {
+    "Start Date": "Thu 29 Jun",
+    "Location": "Wye Valley - Shorncliffe",
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "22:19",
+    "Pub": "Crown Inn"
+  },
+  {
+    "Start Date": "Thu 06 Jul",
+    "Location": "Avon - Main Area",
+    "Pickup Point": "Crag",
+    "Twilight Time": "22:15",
+    "Pub": "Nova Scotia"
+  },
+  {
+    "Start Date": "Thu 13 Jul",
+    "Location": "Ruspidge- Staple Edge Quarry ",
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "22:08",
     "Pub": "The New Inn, Ruspidge"
   },
   {
-    "Start Date": "Thu 21 Jul",
-    "Location": "Wye Valley - Shorn Cliff",
-    "Pickup Point": "GB, SFW, Aust",
-    "Twilight Time": "21:55",
+    "Start Date": "Thu 20 Jul",
+    "Location": "Wye Valley - Shorncliffe",
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "21:57",
     "Pub": "Rose & Crown"
   },
   {
-    "Start Date": "Thu 28 Jul",
+    "Start Date": "Thu 27 Jul",
     "Location": "Wye Valley - Ban-y-Gor",
-    "Pickup Point": "GB, SFW, Aust",
-    "Twilight Time": "21:43",
-    "Pub": "Chepstow Castle"
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "21:45",
+    "Pub": "The Rising Sun"
   },
   {
-    "Start Date": "Thu 04 Aug",
-    "Location": "Wye Valley - Wynd Cliff",
-    "Pickup Point": "GB, SFW, Aust",
-    "Twilight Time": "21:30",
+    "Start Date": "Thu 03 Aug",
+    "Location": "Wye Valley - Wyndcliffe",
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "21:32",
     "Pub": "Rose & Crown"
   },
   {
-    "Start Date": "Thu 11 Aug",
-    "Location": "Wye Valley - Wintour's Leap",
-    "Pickup Point": "GB, SFW, Aust",
-    "Twilight Time": "21:16",
-    "Pub": "Chepstow Castle"
+    "Start Date": "Thu 10 Aug",
+    "Location": "Wye Valley - Wintours Leap",
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "21:18",
+    "Pub": "The Rising Sun"
   },
   {
-    "Start Date": "Thu 18 Aug",
+    "Start Date": "Thu 17 Aug",
+    "Location": "Wye Valley - Wintours Leap",
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "21:03",
+    "Pub": "The Rising Sun"
+  },
+  {
+    "Start Date": "Thu 24 Aug",
     "Location": "Wye Valley - Fly Wall",
-    "Pickup Point": "GB, SFW, Aust",
-    "Twilight Time": "21:00",
-    "Pub": "Chepstow Castle"
-  },
-  {
-    "Start Date": "Thu 25 Aug",
-    "Location": "Leigh Woods - Q1/2",
-    "Pickup Point": "Crag",
-    "Twilight Time": "20:47",
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "20:49",
     "Pub": "Nova Scotia"
   },
   {
-    "Start Date": "Thu 01 Sep",
+    "Start Date": "Thu 31 Aug",
     "Location": "Avon - SBB West",
     "Pickup Point": "Crag",
-    "Twilight Time": "20:28",
+    "Twilight Time": "20:30",
     "Pub": "Nova Scotia"
   },
   {
-    "Start Date": "Thu 08 Sep",
+    "Start Date": "Thu 07 Sep",
     "Location": "Avon - Main Area",
     "Pickup Point": "Crag",
-    "Twilight Time": "20:12",
+    "Twilight Time": "20:14",
     "Pub": "Nova Scotia"
   },
   {
-    "Start Date": "Thu 15 Sep",
+    "Start Date": "Thu 14 Sep",
     "Location": "Wye Valley - Fly Wall",
-    "Pickup Point": "GB, SFW, Aust",
-    "Twilight Time": "19:55",
-    "Pub": "Chepstow Castle"
+    "Pickup Point": "GB*, SFW, Aust",
+    "Twilight Time": "19:56",
+    "Pub": "The Rising Sun"
   },
   {
-    "Start Date": "Thu 22 Sep",
+    "Start Date": "Thu 21 Sep",
     "Location": "Avon - Seawalls",
     "Pickup Point": "Crag",
     "Twilight Time": "19:39",
     "Pub": "Nova Scotia"
   },
   {
-    "Start Date": "Thu 29 Sep",
+    "Start Date": "Thu 28 Sep",
     "Location": "Avon - SBB West",
     "Pickup Point": "Crag",
     "Twilight Time": "19:23",
